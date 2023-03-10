@@ -1,0 +1,7 @@
+export OS_USERNAME=gilvani.alves
+export OS_PASSWORD=1r2h3e4g
+export OS_PROJECT_NAME=project_suporte
+export OS_USER_DOMAIN_NAME=Default
+export OS_PROJECT_DOMAIN_NAME=Default
+export OS_AUTH_URL=http://coruja:5000/v3
+export OS_IDENTITY_API_VERSION=3
